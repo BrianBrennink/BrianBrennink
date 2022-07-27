@@ -2,7 +2,7 @@
 - 👀 I’m interested in any kind of knowledge actually!!!
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on the world development
-- 📫 How to reach me brian.brenninkmeijer@dextra-sw.com
+- 📫 How to reach me brian.brennk@gmail.com
 
 <!---
 BrianBrennink/BrianBrennink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
